@@ -3,8 +3,7 @@
 """This program takes the list of stock prices and returns
    the best profit from 1 purchase and 1 sale of stock.
    It has nested loops and thus performance would be
-   O(n2).
-"""
+   O(n2)."""
 
 
 def maximum_profit(stock_prices_yesterday):

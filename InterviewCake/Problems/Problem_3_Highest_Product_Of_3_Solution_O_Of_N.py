@@ -2,6 +2,7 @@
 
 from itertools import islice
 
+
 def highest_product_of_three(intArray):
     if len(intArray) < 3:
         print("3 or more numbers are require.")
